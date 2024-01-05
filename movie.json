@@ -1,0 +1,130 @@
+{
+  "channels": {
+    "wall1": [
+      {
+        "name": "APP_NBT",
+        "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8"
+      },
+      {
+        "name": "APP_ไทยพีบีเอส",
+        "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+      },
+      {
+        "name": "APP_ALTV",
+        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+      },
+      {
+        "name": "APP_ช่อง 5HD",
+        "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+      }
+    ],
+    "wall2": [
+      {
+        "name": "APP_T-sports",
+        "url": "https://gmmztv.v2h-cdn.com/tsport/tsport.stream/playlist.m3u8"
+      },
+      {
+        "name": "APP_ทีวีรัฐสภา",
+        "url": "https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8"
+      },
+      {
+        "name": "APP_TNN",
+        "url": "https://gmmztv.v2h-cdn.com/tnn16/tnn16.stream/playlist.m3u8"
+      },
+      {
+        "name": "APP_JKN 18",
+        "url": "https://gmmztv.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8"
+      }
+    ],
+    "wall3": [
+      {
+        "name": "APP_เนชั่น ทีวี",
+        "url": "https://gmmztv.v2h-cdn.com/nation/nation.stream/playlist.m3u8"
+      },
+      {
+        "name": "APP_เวิร์คพอยท์ 23",
+        "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015-avc1_5000000=8-mp4a_64000_tha=2.m3u8"
+      },
+      {
+        "name": "APP_TRUE4U",
+        "url": "https://gmmztv.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8"
+      },
+      {
+        "name": "APP_GMM 25",
+        "url": "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8"
+      }
+    ],
+    "wall4": [
+      {
+        "name": "APP_ช่อง 8",
+        "url": "https://gmmztv.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8"
+      },
+      {
+        "name": "APP_โมโน 29 -ไทย",
+        "url": "https://edge1-bkk.3bb.co.th:9443/Mono29xPartner/MONO29partner.stream/playlist.m3u8"
+      },
+      {
+        "name": "IPTV_ช่อง 3HD",
+        "url": "http://45.144.166.242:1935/CH3/ch3_3/playlist.m3u8"
+      },
+      {
+        "name": "Boomerang_hdi",
+        "url": "https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/chunklist_w1172213247.m3u8"
+      }
+    ],
+    "wall5": [
+      {
+        "name": "APP_ช่อง 7HD",
+        "url": "https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8"
+      },
+      {
+        "name": "APP_พีพีทีวี HD",
+        "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022-avc1_5000000=6-mp4a_64000_tha=5.m3u8"
+      },
+      {
+        "name": "IPTV_NBT",
+        "url": "https://gmmztv.v2h-cdn.com/nbt_z/nbt.stream/playlist.m3u8"
+      },
+      {
+        "name": "APP_ไทยรัฐทีวี",
+        "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_5000000=5-mp4a_64000_tha=6.m3u8"
+      }
+    ],
+    "wall6": [
+      {
+        "name": "IPTV_ช่อง 7HD",
+        "url": "http://45.144.166.242:1935/CH7/ch7_3/playlist.m3u8"
+      },
+      {
+        "name": "IPTV_ช่อง 5HD",
+        "url": "https://gmmztv.v2h-cdn.com/ch5_z/ch5.stream/playlist.m3u8"
+      },
+      {
+        "name": "IPTV_โมโน 29 -ไทย",
+        "url": "https://edge1-bkk.3bb.co.th:9443/Mono29xPartner/MONO29partner.stream/playlist.m3u8"
+      },
+      {
+        "name": "IPTV_พีพีทีวี HD",
+        "url": "http://45.144.166.242:1935/PPTV/pptv_3/playlist.m3u8"
+      }
+    ],
+    "wall7": [
+      {
+        "name": "IPTV_GMM 25",
+        "url": "https://gmm25.aenatdanai.workers.dev/.m3u8"
+      },
+      {
+        "name": "IPTV_JKN 18",
+        "url": "https://gmmztv.v2h-cdn.com/jkn18_z/jkn18.stream/playlist.m3u8"
+      },
+      {
+        "name": "IPTV_ช่องวัน 31",
+        "url": "https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8"
+      },
+      {
+        "name": "IPTV_เวิร์คพอยท์ 23",
+        "url": "https://gmmztv.v2h-cdn.com/gmm_workpoint_z/gmm_workpoint.stream/playlist.m3u8"
+      }
+    ]
+  }
+}
